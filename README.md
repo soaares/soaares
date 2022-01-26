@@ -1,18 +1,7 @@
 👋 Hi, I’m @soaares
 
-*I'm 28 year old and I'm interested in how to build interesting things! 😍*
-
-### Main Function of my life ###
 ```ts
-function focusOn() {
-
-  notebook(true) 💻
-  cellphone(false) 📴
-  take a cup of coffee(true) ☕
-  and get in to the code(ttttttrueeee) 🛸
-
-}
-
+let's build some different.
 ```
 
 *Find me on:* 
